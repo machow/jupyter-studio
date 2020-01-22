@@ -26,3 +26,13 @@ Extensions
 
 Setup Instructions
 ------------------
+
+Contributing
+------------
+
+Tools used for 
+
+* Screencasts - Kap: https://github.com/wulkano/kap
+* Keystroke Viz - KeyCastr: https://github.com/keycastr/keycastr
+
+Screencasts are saved to `images` folder, using the format `{category}-{name}-{resolution}.gif`.
