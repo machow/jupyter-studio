@@ -17,6 +17,10 @@ Keyboard Shortcuts
 
 ![](images/shortcuts-shortcut-menu.png)
 
+`CMD + B` - toggle sidebar
+
+![](images/shortcuts-toggle-sidebar-1200.gif)
+
 Extensions
 ----------
 
