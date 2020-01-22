@@ -13,6 +13,10 @@ Table of Contents
 Keyboard Shortcuts
 ------------------
 
+`CMD + ,` - open shortcuts menu
+
+![](images/shortcuts-shortcut-menu.png)
+
 Extensions
 ----------
 
