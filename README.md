@@ -24,6 +24,13 @@ Keyboard Shortcuts
 Extensions
 ----------
 
+```python
+jupyter labextension install @jupyterlab/toc
+```
+
+### jupyterlab-toc
+
+
 Setup Instructions
 ------------------
 
