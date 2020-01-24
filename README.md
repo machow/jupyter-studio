@@ -25,7 +25,28 @@ Extensions
 ----------
 
 ```python
+# Handy table of contents
 jupyter labextension install @jupyterlab/toc
+
+# Black formatter
+jupyter labextension install @ryantam626/jupyterlab_code_formatter
+python3 -m pip install jupyterlab_code_formatter
+jupyter serverextension enable --py jupyterlab_code_formatter
+
+# Jump to where a variable is defined
+jupyter labextension install @krassowski/jupyterlab_go_to_definition
+
+# Easy file opening
+pip install jupyterlab-quickopen
+jupyter labextension install @parente/jupyterlab-quickopen
+
+# Variable inspector
+jupyter labextension install @lckr/jupyterlab_variableinspector
+
+# Git in jupyter lab
+jupyter labextension install @jupyterlab/git
+pip install --upgrade jupyterlab-git
+
 ```
 
 ### jupyterlab-toc
