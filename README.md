@@ -24,7 +24,7 @@ Keyboard Shortcuts
 Extensions
 ----------
 
-```python
+```shell
 # Handy table of contents
 jupyter labextension install @jupyterlab/toc
 
@@ -46,6 +46,11 @@ jupyter labextension install @lckr/jupyterlab_variableinspector
 # Git in jupyter lab
 jupyter labextension install @jupyterlab/git
 pip install --upgrade jupyterlab-git
+
+# qgrid
+pip install qgrid
+jupyter nbextension enable --py --sys-prefix qgrid
+jupyter labextension install qgrid
 
 ```
 
