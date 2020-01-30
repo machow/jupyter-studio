@@ -13,13 +13,10 @@ Table of Contents
 Keyboard Shortcuts
 ------------------
 
-`CMD + ,` - open shortcuts menu
-
-![](images/shortcuts-shortcut-menu.png)
-
-`CMD + B` - toggle sidebar
-
-![](images/shortcuts-toggle-sidebar-1200.gif)
+| command | outcome | demo |
+| ------- | ------- | ---- |
+| `CMD + ,` | open shortcuts menu | ![](images/shortcuts-shortcut-menu.png) |
+| `CMD + B` | toggle sidebar | ![](images/shortcuts-toggle-sidebar-1200.gif) |
 
 Extensions
 ----------
