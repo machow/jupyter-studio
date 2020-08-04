@@ -8,6 +8,7 @@ Table of Contents
 
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Extensions](#extensions)
+- [Customizing](#customizing)
 - [Setup Instructions](#setup-instructions)
 
 Keyboard Shortcuts
@@ -52,6 +53,29 @@ jupyter labextension install qgrid
 ```
 
 ### jupyterlab-toc
+
+Customizing
+-----------
+
+### Where do my settings come from?
+
+```
+jupyter --path
+```
+
+```shell
+config:
+    /Users/machow/.jupyter
+    /Users/machow/.pyenv/versions/3.6.8/etc/jupyter
+    /usr/local/etc/jupyter
+    /etc/jupyter
+```
+
+### How do I specify where settings should come from?
+
+```
+export JUPYTER_CONFIG_DIR=some/path/to/.jupyter
+```
 
 
 Setup Instructions
