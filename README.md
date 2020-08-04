@@ -29,7 +29,7 @@ jupyter labextension install @jupyterlab/toc
 # Black formatter
 jupyter labextension install @ryantam626/jupyterlab_code_formatter
 python3 -m pip install jupyterlab_code_formatter
-jupyter serverextension enable --py jupyterlab_code_formatter
+jupyter serverextension enable --py jupyterlab_code_formatter --sys-prefix
 
 # Jump to where a variable is defined
 jupyter labextension install @krassowski/jupyterlab_go_to_definition
