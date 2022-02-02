@@ -77,6 +77,13 @@ config:
 export JUPYTER_CONFIG_DIR=some/path/to/.jupyter
 ```
 
+### How do I export my shortcuts?
+
+```
+# run jupyter --path to find the right directory, then..
+cat /Users/machow/.jupyter/lab/user-settings/\@jupyterlab/shortcuts-extension/shortcuts.jupyterlab-settings
+```
+
 
 Setup Instructions
 ------------------
